@@ -1,0 +1,10 @@
+fastapi==0.115.4
+uvicorn==0.32.1
+python-dotenv==1.0.1
+pydantic==2.10.3
+supabase==2.10.0
+langchain==0.3.10
+langchain-core==0.3.22
+langchain-anthropic==0.3.7
+langchain-mcp-adapters==0.1.4
+langgraph==0.2.60
